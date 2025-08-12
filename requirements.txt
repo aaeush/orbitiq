@@ -6,3 +6,7 @@ geopandas
 matplotlib
 seaborn
 jupyter
+python-dotenv
+rapidfuzz
+sgp4
+tenacity
