@@ -1,0 +1,8 @@
+pandas
+requests
+beautifulsoup4
+selenium
+geopandas
+matplotlib
+seaborn
+jupyter
