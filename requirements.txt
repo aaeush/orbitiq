@@ -10,3 +10,10 @@ python-dotenv
 rapidfuzz
 sgp4
 tenacity
+tqdm 
+requests>=2.31
+pandas>=2.2
+python-dotenv>=1.0
+tenacity>=8.2
+tqdm>=4.66
+wordcloud>=1.9

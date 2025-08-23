@@ -1,0 +1,510 @@
+{
+  "type": "FeatureCollection",
+  "name": "launch_sites",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "TTMTR",
+        "name": "Tyuratam (Baikonur Cosmodrome), Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.305,
+          45.9647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "AFETR",
+        "name": "Air Force Eastern Test Range (Cape Canaveral/KSC), Florida, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5778,
+          28.4889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "AFWTR",
+        "name": "Air Force Western Test Range (Vandenberg SFB), California, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.572,
+          34.742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "WLPIS",
+        "name": "Wallops Island, Virginia, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.466,
+          37.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "KYMTR",
+        "name": "Kapustin Yar Missile & Space Complex, Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.735,
+          48.572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "HGSTR",
+        "name": "Hammaguira Range, Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.06,
+          30.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "PKMTR",
+        "name": "Plesetsk Missile & Space Complex, Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.5778,
+          62.9256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SNMLP",
+        "name": "San Marco Launch Platform (off Kenya), Indian Ocean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.213,
+          -2.934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "WOMRA",
+        "name": "Woomera, South Australia, Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.817,
+          -31.144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "KSCUT",
+        "name": "Uchinoura Space Center (Kagoshima), Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.081,
+          31.251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "FRGUI",
+        "name": "Europe’s Spaceport (CSG), Kourou, French Guiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.768,
+          5.239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "JSC",
+        "name": "Jiuquan Satellite Launch Center, China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.298,
+          40.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "TNSTA",
+        "name": "Tanegashima Space Center, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.966,
+          30.375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SRI",
+        "name": "Satish Dhawan Space Centre (Sriharikota), India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.235,
+          13.733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "XSC",
+        "name": "Xichang Satellite Launch Center, China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.027,
+          28.246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "TSC",
+        "name": "Taiyuan Satellite Launch Center, China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.954,
+          37.593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "YAVNE",
+        "name": "Palmachim (Yavne) Launch Facility, Israel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.688,
+          31.887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SVOB",
+        "name": "Svobodny (decommissioned) / Vostochny region predecessor, Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.15,
+          51.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "CAS",
+        "name": "Canaries Airspace (representative center)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.5,
+          28.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "WRAS",
+        "name": "Western Range Airspace (representative center)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0,
+          33.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "ERAS",
+        "name": "Eastern Range Airspace (representative center)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5,
+          28.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SADOL",
+        "name": "Unlisted/unknown in official SATCAT launch-sites (verify source)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SEAL",
+        "name": "Sea Launch (equatorial operations near 154°W)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "KWAJL",
+        "name": "U.S. Army Kwajalein Atoll, Marshall Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.476,
+          9.398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "KODAK",
+        "name": "Pacific Spaceport Complex–Alaska (Kodiak), USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.337,
+          57.436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "OREN",
+        "name": "Orenburg (Dombarovsky/Yasny) Launch Site, Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.845,
+          51.088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SEM",
+        "name": "Semnan Launch Site, Iran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.92,
+          35.234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "YUN",
+        "name": "Sohae (Tongchang-ri) Satellite Launching Station, DPRK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.705,
+          39.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "NSC",
+        "name": "Naro Space Center (Goheung), Republic of Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.535,
+          34.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "VOSTO",
+        "name": "Vostochny Cosmodrome, Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.333,
+          51.884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "WSC",
+        "name": "Wenchang Space Launch Site (Hainan), China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.951,
+          19.614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "RLLC",
+        "name": "Rocket Lab LC‑1, Māhia Peninsula, New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.865,
+          -39.262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "YSLA",
+        "name": "Yellow Sea Launch Area, China (representative center)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2,
+          34.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SMTS",
+        "name": "Shahrud Missile Test Site, Iran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.02,
+          36.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "JJSLA",
+        "name": "Jeju Island Sea Launch Area, Republic of Korea (repr.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0,
+          32.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "SCSLA",
+        "name": "South China Sea Launch Area, China (representative center)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.0,
+          18.0
+        ]
+      }
+    }
+  ]
+}
